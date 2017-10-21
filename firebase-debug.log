@@ -1,0 +1,28 @@
+[debug] [2017-10-21T18:29:38.056Z] ----------------------------------------------------------------------
+[debug] [2017-10-21T18:29:38.058Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-10-21T18:29:38.059Z] CLI Version:   3.13.1
+[debug] [2017-10-21T18:29:38.059Z] Platform:      darwin
+[debug] [2017-10-21T18:29:38.059Z] Node Version:  v6.11.4
+[debug] [2017-10-21T18:29:38.060Z] Time:          Sat Oct 21 2017 14:29:38 GMT-0400 (EDT)
+[debug] [2017-10-21T18:29:38.060Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-21T18:29:38.071Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-21T18:29:38.071Z] > authorizing via signed-in user
+[debug] [2017-10-21T18:29:38.073Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/webtest-w1wsn  
+ Sat Oct 21 2017 14:29:38 GMT-0400 (EDT)
+[debug] [2017-10-21T18:29:38.384Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-21T18:29:38.385Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/webtest-w1wsn/tokens  
+ Sat Oct 21 2017 14:29:38 GMT-0400 (EDT)
+[debug] [2017-10-21T18:29:38.892Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/zatl/Desktop/TestWeb'...
+[info] 
+[debug] [2017-10-21T18:29:38.896Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/webtest-w1wsn  
+ Sat Oct 21 2017 14:29:38 GMT-0400 (EDT)
+[debug] [2017-10-21T18:29:39.656Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-21T18:29:39.657Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1069173100525/clients/_:getWebAppConfig  
+ Sat Oct 21 2017 14:29:39 GMT-0400 (EDT)
+[debug] [2017-10-21T18:29:40.025Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
