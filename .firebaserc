@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "webtest-w1wsn",
+    "test": "webtest-w1wsn"
+  }
+}
